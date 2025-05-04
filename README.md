@@ -23,7 +23,7 @@ This repository contains code and analysis for a project that investigates how U
 ## 🧪 Methods Used
 
 - **Topic Modeling**:
-  - BERTopic (Transformer embeddings + HDBSCAN)
+  - BERTopic (Transformer embeddings + K-Means)
   - Latent Dirichlet Allocation (LDA)
 - **Sentiment Analysis**:
   - NRC Emotion Lexicon (anger, fear, trust, etc.)
