@@ -18,7 +18,7 @@ This repository contains code and analysis for a project that investigates how U
 | `Data Preprocessing and BERTopic Modeling.ipynb` | Preprocesses speech data and applies BERTopic for unsupervised topic modeling with visualization. |
 | `Topic Modeling-LDA.ipynb` | Implements traditional LDA modeling for baseline comparison. |
 | `Sentiment analysis(NRC Dictionary and Bert).ipynb` | Performs sentiment analysis using NRC lexicon and BERT classifier, comparing results. |
-| `LLM-Enhanced Topic-Modeling and Sentiment Analysis.ipynb` | Integrates OpenAI LLMs to refine topic labeling, summarize cluster meanings, and analyze subtle emotional tones. |
+| `LLM-Enhanced Topic-Modeling and Sentiment Analysis.ipynb` | Integrates LLMs to refine topic labeling, summarize cluster meanings, and analyze subtle emotional tones. |
 
 ## 🧪 Methods Used
 
@@ -29,7 +29,7 @@ This repository contains code and analysis for a project that investigates how U
   - NRC Emotion Lexicon (anger, fear, trust, etc.)
   - Pretrained BERT classifier
 - **LLM Enhancements**:
-  - ChatGPT for naming topics, classify emotions, and generating insight-rich explanations
+  - Qwen Plus for naming topics, classify emotions, and generating insight-rich explanations
 
 ## 📊 Visualizations
 
